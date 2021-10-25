@@ -1,0 +1,5 @@
+var n1 = prompt("Ingresar dato")
+var n2  = prompt("Ingresar dato")
+var n3 = prompt("Ingresar dato")
+var igualdad = (n1 == n2) || (n1 == n3) || (n3 == n2) 
+alert(igualdad) 
